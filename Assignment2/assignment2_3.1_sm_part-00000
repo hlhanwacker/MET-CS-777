@@ -1,0 +1,5 @@
+Row(summary='count', count='999')
+Row(summary='mean', count='13.793793793793794')
+Row(summary='stddev', count='11.06201871439371')
+Row(summary='min', count='1')
+Row(summary='max', count='76')
