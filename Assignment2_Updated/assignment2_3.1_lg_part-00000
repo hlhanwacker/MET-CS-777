@@ -1,5 +1,0 @@
-Row(summary='count', count='25323285')
-Row(summary='mean', count='5.566655905819486')
-Row(summary='stddev', count='5.56716346703804')
-Row(summary='min', count='1')
-Row(summary='max', count='587')
